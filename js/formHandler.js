@@ -20,5 +20,6 @@ form.addEventListener("submit", event => {
   }
 
   // Enviando a la pagina de resultado
-  window.location.href = window.location.href + "/result.html"
+  let resultRute = window.location.href + "/result.html"
+  window.location.href = resultRute
 })
