@@ -1,2 +1,2 @@
-import "./formHandler"
-import "./carousel"
+import "./formHandler.js"
+import "./carousel.js"
